@@ -65,3 +65,5 @@ function costPerCategory() {
 }
 
 costPerCategory()
+
+console.log('knex and driver installed properly')
